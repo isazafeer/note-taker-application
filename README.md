@@ -24,9 +24,11 @@
 
 In this week's challenge, I was tasked with creating a note-taker application. This was developed from starter code, as the challege was to develop the back-end of the application using Express. 
 
-IMG 
+<img width="1440" alt="Screenshot 2024-04-04 at 19 32 24" src="https://github.com/isazafeer/note-taker-application/assets/116819407/24d54e19-73e4-43c3-8ed8-b56176787d13">
 
-IMG
+
+<img width="1440" alt="Screenshot 2024-04-04 at 19 32 07" src="https://github.com/isazafeer/note-taker-application/assets/116819407/48604456-b92b-4965-9273-97491dc819e7">
+
 
 Below is a link to my deployed application on Render, as per the success criteria.
 
