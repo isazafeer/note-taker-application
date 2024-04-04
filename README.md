@@ -22,5 +22,12 @@
 
 * It's done if I click the bin button which is there by the side of every note, that note is deleted.
 
+In this week's challenge, I was tasked with creating a note-taker application. This was developed from starter code, as the challege was to develop the back-end of the application using Express. 
+
+IMG 
+
+IMG
+
+Below is a link to my deployed application on Render, as per the success criteria.
 
 https://note-taker-application-3.onrender.com
